@@ -1,0 +1,113 @@
+{
+  "postDetails": [
+    {
+      "id": 1,
+      "image": "infi",
+      "userLogo": "userLogo",
+      "user": "Vikas",
+      "description": "Reprehenderit nisi proident deserunt non labore nostrud ad dolore fugiat ipsum.",
+      "like": "♥️ 2k",
+      "views": "👁️‍🗨️ 2k",
+      "comment": "💬 2k Comments",
+      "share": "Share"
+    },
+    {
+      "id": 2,
+      "image": "infi",
+      "userLogo": "userLogo",
+      "user": "Sachin",
+      "description": "Reprehenderit nisi proident deserunt non labore nostrud ad dolore fugiat ipsum.",
+      "like": "♥️ 2k",
+      "views": "👁️‍🗨️ 2k",
+      "comment": "💬 2k Comments",
+      "share": "Share"
+    },
+    {
+      "id": 3,
+      "image": "infi",
+      "userLogo": "userLogo",
+      "user": "Divyash",
+      "description": "Reprehenderit nisi proident deserunt non labore nostrud ad dolore fugiat ipsum.",
+      "like": "♥️ 2k",
+      "views": "👁️‍🗨️ 2k",
+      "comment": "💬 2k Comments",
+      "share": "Share"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "image": "companyLogo",
+      "description": "Do irure adipisicing eiusmod quis duis dolor adipisicing consequat id pariatur irure."
+    },
+    {
+      "id": 2,
+      "image": "companyLogo",
+      "description": "Do irure adipisicing eiusmod quis duis dolor adipisicing consequat id pariatur irure."
+    },
+    {
+      "id": 3,
+      "image": "companyLogo",
+      "description": "Do irure adipisicing eiusmod quis duis dolor adipisicing consequat id pariatur irure."
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "CAPRI GLOBAL",
+      "logo": "capriglobal"
+    },
+    {
+      "id": 2,
+      "name": "GANESH HOUSING",
+      "logo": "ganeshhousing"
+    },
+    {
+      "id": 3,
+      "name": "Fino",
+      "logo": "fino"
+    },
+    {
+      "id": 4,
+      "name": "GRAVITA",
+      "logo": "gravita"
+    },
+    {
+      "id": 5,
+      "name": "HIRA",
+      "logo": "hira"
+    },
+    {
+      "id": 6,
+      "name": "DATA PATTERNS",
+      "logo": "datapatterns"
+    },
+    {
+      "id": 7,
+      "name": "SIGMA SOLVE",
+      "logo": "sigmasolve"
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "image": "menu"
+    },
+    {
+      "id": 2,
+      "image": "categories"
+    },
+    {
+      "id": 3,
+      "image": "home"
+    },
+    {
+      "id": 4,
+      "image": "chat"
+    },
+    {
+      "id": 5,
+      "image": "check"
+    }
+  ]
+}
